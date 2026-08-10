@@ -321,7 +321,7 @@ O trabalho completo, em sua versão publicada como **resumo expandido**, está d
 
 ### 📑 Resumo expandido publicado
 
-**[→ Acessar o resumo expandido](./publicacao/resumo-expandido.pdf)**
+**[→ Acessar o resumo expandido](./publicacao/A Responsabilidade Digital e a Segurança da Informação Resumo Expandido .pdf)**
 
 A versão disponível corresponde ao texto publicado na publicação científica do evento, adaptado aos critérios de submissão estabelecidos para o congresso.
 
