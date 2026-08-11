@@ -2,7 +2,15 @@
 
 ### Um estudo sobre Leis Brasileiras aplicadas ao Desenvolvimento de Software
 
-Pesquisa acadêmica desenvolvida por **Sara dos Santos Gonçalves Lopes**, dedicada à análise da relação entre o desenvolvimento de software, a Segurança da Informação, a legislação brasileira e a responsabilidade profissional no ambiente digital.
+Nesta pesquisa, busco compreender a relação entre o desenvolvimento de software, a Segurança da Informação, a legislação brasileira e a responsabilidade profissional no ambiente digital.
+
+---
+
+## 📄 Documento
+
+> A versão disponível neste repositório corresponde ao texto publicado na revista científica do evento, adaptado aos critérios de submissão estabelecidos para o congresso.
+
+[![PDF](https://img.shields.io/badge/Acessar_PDF-B22222?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./publicacao/A%20Responsabilidade%20Digital%20e%20a%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20Resumo%20Expandido%20.pdf)
 
 ---
 
@@ -294,7 +302,7 @@ Ela marca o início de uma investigação que continua buscando compreender como
 
 ## 🏛️ Publicação
 
-A pesquisa foi apresentada em congresso e posteriormente publicada em sua versão de **resumo expandido** na publicação científica do evento.
+A pesquisa foi apresentada em congresso da UNIVEM no dia 14 de novembro de 2025 e posteriormente publicada em sua versão de **resumo expandido** na revista científica do evento.
 
 ### Dados da publicação
 
@@ -302,7 +310,7 @@ A pesquisa foi apresentada em congresso e posteriormente publicada em sua versã
 *A Responsabilidade Digital e a Segurança da Informação: um estudo sobre Leis Brasileiras aplicadas ao Desenvolvimento de Software*
 
 **Autoria:**
-Sara dos Santos Gonçalves Lopes
+Sara S. G. Lopes
 
 **Páginas:**
 105–108
@@ -311,27 +319,29 @@ Sara dos Santos Gonçalves Lopes
 978-65-89381-11-2
 
 **Publicação:**
-[Nome oficial da publicação]
+"A pesquisa foi apresentada no congresso da UNIVEM em 14 de novembro de 2025 e posteriormente publicada, em sua versão de resumo expandido, na revista científica do evento.
 
 ---
 
-## 📄 Leia a pesquisa
+### 📑 Leia a Pesquisa 
 
-O trabalho completo, em sua versão publicada como **resumo expandido**, está disponível neste repositório.
+> O resumo está disponível nas páginas 105-108
 
-### 📑 Resumo expandido publicado
-
-**[→ Acessar o resumo expandido](./publicacao/A%20Responsabilidade%20Digital%20e%20a%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20Resumo%20Expandido%20.pdf)**
-
-A versão disponível corresponde ao texto publicado na publicação científica do evento, adaptado aos critérios de submissão estabelecidos para o congresso.
+[![Acesse a Publicação](https://img.shields.io/badge/Publica%C3%A7%C3%A3o-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Uqx_cohQCqtrpE9L3y41R9UmKlGAXXLx/view)
 
 ---
 
-## 👩‍💻 Autoria
+## 🌙 Contato
 
-**Sara dos Santos Gonçalves Lopes**
+**Sara Lopes**
+> Estudante de Engenharia de Software e formada em Análise e Desenvolvimento de Sistemas pela UNOESTE.
 
-Pesquisa desenvolvida no campo de **Segurança da Informação, Direito Digital e Desenvolvimento de Software**, explorando as relações entre tecnologia, legislação, ética e responsabilidade profissional.
+Pesquisa que desenvolvi no campo de **Segurança da Informação, Direito Digital e Desenvolvimento de Software**, onde busquei explorar as relações entre tecnologia, legislação, ética e responsabilidade profissional.
+
+Se este projeto despertou sua curiosidade, você pode me encontrar por aqui:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ssaralopes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ssaralopes/)
 
 ---
 
