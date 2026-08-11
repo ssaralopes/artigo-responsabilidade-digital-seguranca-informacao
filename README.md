@@ -10,7 +10,7 @@ Nesta pesquisa, busco compreender a relação entre o desenvolvimento de softwar
 
 > A versão disponível neste repositório corresponde ao texto publicado na revista científica do evento, adaptado aos critérios de submissão estabelecidos para o congresso.
 
-[![PDF](https://img.shields.io/badge/Acessar_PDF-B22222?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./publicacao/A%20Responsabilidade%20Digital%20e%20a%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20Resumo%20Expandido%20.pdf)
+[![PDF](https://img.shields.io/badge/Acessar_PDF-B22222?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./publicacao/A%20Responsabilidade%20Digital%20e%20a%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20%20Resumo%20Expandido%20.pdf)
 
 ---
 
